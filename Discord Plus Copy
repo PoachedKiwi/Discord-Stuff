@@ -1090,7 +1090,7 @@ that have popups, or else the menu breaks when you hover over them */
 .wrapper_ed1dea ul {height: calc(inherit + var(--dplus-spacing-ui)) !important;}
 .guilds__2b93a .listItem_fa7b36 :not(span) {border-radius: var(--dplus-radius-server)!important;}
 .wrapper__3670f { top: calc(var(--dplus-icon-server-sidebar) / 10) !important;height: calc(var(--dplus-icon-server-sidebar) / 10 * 8) !important; }
-.pill-1z4sAY { top: calc(var(--dplus-icon-server-sidebar) / 10) }
+
 .circleIconButton_d8df29 {
 	background-color: var(--dplus-bgc-server-button)!important;
 	color: var(--dplus-accent-ui)!important;
