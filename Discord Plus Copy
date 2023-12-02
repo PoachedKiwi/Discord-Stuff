@@ -1949,8 +1949,7 @@ html[style^="font-size: 93.75%;"] { --chat-font-scaling: 0.9375; }
 .bda-link:not(:first-of-type) {
 	margin-left: 10px;
 }
-.theme-dark .bda-slist .bda-header, .theme-dark .bda-slist .bda-description  { color: white; }
-.theme-light .bda-slist .bda-header, .theme-light .bda-slist .bda-description  { color: black; }
+
 
       /*- 15.1.1 Toast Notifications -*/
 .toast, .bd-toast {
