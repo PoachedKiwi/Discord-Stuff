@@ -1071,7 +1071,7 @@ that have popups, or else the menu breaks when you hover over them */
 	border-radius: var(--dplus-radius-ui);
 	margin-right: var(--dplus-spacing-app);
 }
-.pill__6b31b {border-radius: 0!important;} /*removes the radius on unread message pill*/
+
 .guilds__2b93a, .listItem_fa7b36 {
 	width: calc(var(--dplus-icon-server-sidebar) + var(--dplus-spacing-ui) * 2);
 }
@@ -1090,7 +1090,7 @@ that have popups, or else the menu breaks when you hover over them */
 .wrapper_ed1dea ul {height: calc(inherit + var(--dplus-spacing-ui)) !important;}
 .guilds__2b93a .listItem_fa7b36 :not(span) {border-radius: var(--dplus-radius-server)!important;}
 .wrapper__3670f { top: calc(var(--dplus-icon-server-sidebar) / 10) !important;height: calc(var(--dplus-icon-server-sidebar) / 10 * 8) !important; }
-
+.pill-1z4sAY { top: calc(var(--dplus-icon-server-sidebar) / 10) }
 .circleIconButton_d8df29 {
 	background-color: var(--dplus-bgc-server-button)!important;
 	color: var(--dplus-accent-ui)!important;
